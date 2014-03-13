@@ -1,0 +1,13 @@
+Added:
+
+Routes:
+	-/
+	-/vote
+	-/results
+	-VoteController@getTop5Today
+	-VoteController@getTop5AllTime
+	-VoteController@getTop5Week
+Views:
+	-results
+	-vote
+	-welcome
